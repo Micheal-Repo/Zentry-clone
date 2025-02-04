@@ -53,10 +53,10 @@ function BgVideo() {
   const [loadedVideos, setLoadedVideos] = useState(0);
 
   const videos = [
-    "/videos/hero-1.mp4",
-    "/videos/hero-2.mp4",
-    "/videos/hero-3.mp4",
-    "/videos/hero-4.mp4",
+    "/hero-1.mp4",
+    "/hero-2.mp4",
+    "/hero-3.mp4",
+    "/hero-4.mp4",
   ];
 
   useEffect(() => {

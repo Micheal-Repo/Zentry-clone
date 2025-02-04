@@ -31,7 +31,7 @@ export default function About() {
       <AboutContent className="text-white" />
       <div id="storyImg" className="w-full h-full absolute top-0 left-0">
         <Image
-          src="/img/entrance.webp"
+          src="/entrance.webp"
           fill={true}
           alt="about"
           className="object-cover object-center"

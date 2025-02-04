@@ -45,7 +45,7 @@ export default function Contact() {
       
       <div className="w-full h-full relative rounded-2xl overflow-hidden">
         <Image
-          src="/img/gallery-4.webp"
+          src="/gallery-4.webp"
           fill={true}
           alt=""
           className="object-cover object-center w-full h-full"
@@ -72,7 +72,7 @@ function Content() {
           className="absolute top-[-1.5rem] left-[-1.5rem]  md:top-[-2.5rem] md:left-[-2.5rem] w-[10rem] h-[10rem] md:h-[20rem] md:w-[20rem] overflow-hidden rounded-full scale-105"
         >
           <Image
-            src="/img/contact-2.webp"
+            src="/contact-2.webp"
             fill={true}
             alt=""
             className="object-cover object-center"
@@ -85,7 +85,7 @@ function Content() {
           className="absolute bottom-[-1.5rem] right-[-1.5rem]  md:bottom-[-2.5rem] md:right-[-2.5rem] w-[10rem] h-[10rem] md:h-[20rem] md:w-[20rem] scale-105  overflow-hidden rounded-full "
         >
           <Image
-            src="/img/swordman.webp"
+            src="/swordman.webp"
             fill={true}
             alt=""
             className="object-cover object-center"

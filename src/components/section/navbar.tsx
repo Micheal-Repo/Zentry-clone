@@ -59,7 +59,7 @@ export default function Navbar() {
           
           <div className="w-[40px] h-[40px] md:w-[50px] md:h-[50px] relative">
             <Image
-              src="/img/logo.png"
+              src="/logo.png"
               alt="logo"
               fill={true}
               className="object-center object-contain"

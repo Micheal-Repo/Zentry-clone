@@ -30,7 +30,7 @@ export default function Home(){
               <audio
                 ref={audioElementRef}
                 className="hidden"
-                src="/audio/loop.mp3"
+                src="/loop.mp3"
                 loop
                 
               />

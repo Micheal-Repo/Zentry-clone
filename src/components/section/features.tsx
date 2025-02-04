@@ -15,20 +15,20 @@ export default function Features(){
     {
       title:"zigma",
       desc:"An anime and gaming-inspired NFT collection - the IP primed for expansion.",
-      src:"/videos/hero-1.mp4"
+      src:"/feature2.mp4"
     },
     {
       title:"nexus",
       desc:"A gamified social hub, adding a new dimension of play to social interaction for Web3 communities.",
-      src:"/videos/hero-2.mp4"
+      src:"/feature3.mp4"
     },
     {
       title:"azul",
       desc:"A cross-world AI Agent - elevating your gameplay to be more fun and productive.",
-      src:"/videos/hero-4.mp4"
+      src:"/feature4.mp4"
     },
     {
-      src:"/videos/feature5.mp4",
+      src:"/feature5.mp4",
       title:"Avara",
       desc:"A gamified social hub, adding a new dimension of play to social interaction for Web3 communities.",
     },
