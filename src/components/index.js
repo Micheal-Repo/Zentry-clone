@@ -1,0 +1,31 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Audio = exports.Title = exports.AnimatedTitle = exports.Button = exports.Section = exports.Footer = exports.Contact = exports.Story = exports.Features = exports.About = exports.Sidebar = exports.Navbar = exports.Hero = void 0;
+//section 
+var hero_1 = require("./section/hero");
+exports.Hero = hero_1.default;
+var navbar_1 = require("./section/navbar");
+exports.Navbar = navbar_1.default;
+var sidebar_1 = require("./section/sidebar");
+exports.Sidebar = sidebar_1.default;
+var about_1 = require("./section/about");
+exports.About = about_1.default;
+var features_1 = require("./section/features");
+exports.Features = features_1.default;
+var story_1 = require("./section/story");
+exports.Story = story_1.default;
+var contact_1 = require("./section/contact");
+exports.Contact = contact_1.default;
+var footer_1 = require("./section/footer");
+exports.Footer = footer_1.default;
+//ui 
+var section_1 = require("./ui/section");
+exports.Section = section_1.default;
+var Button_1 = require("./ui/Button");
+exports.Button = Button_1.default;
+var animatedTitle_1 = require("./ui/animatedTitle");
+exports.AnimatedTitle = animatedTitle_1.default;
+var title_1 = require("./ui/title");
+exports.Title = title_1.default;
+var audio_1 = require("./ui/audio");
+exports.Audio = audio_1.default;
