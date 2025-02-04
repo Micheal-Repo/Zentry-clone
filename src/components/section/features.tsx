@@ -54,7 +54,7 @@ export default function Features(){
         {/*grid*/}
         <div className="flex flex-col gap-4 mt-[2.5rem]">
           <BentoCard
-            src="/videos/feature1.mp4"
+            src="/feature1.mp4"
             title="radiant"
             desc="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding   adventure."
             className="h-[22rem]"

@@ -2,8 +2,8 @@
 import {useState,useRef,useEffect} from "react"
 
 export default function Home(){
-  const [isAudioPlaying, setIsAudioPlaying] = useState(true);
-  const [isIndicatorActive, setIsIndicatorActive] = useState(true);
+  const [isAudioPlaying, setIsAudioPlaying] = useState(false);
+  const [isIndicatorActive, setIsIndicatorActive] = useState(false);
   
   const audioElementRef:any = useRef(null);
   
